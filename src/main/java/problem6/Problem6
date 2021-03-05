@@ -1,0 +1,9 @@
+Problem 6
+(a) Show the counter array (used in counting sort) for the following array of integers:
+5, 8, 1, 9, 8, 1, 0, 4, 8, 3, 4, 6
+Assume that each element is in the range from 0 to 9.
+
+(b) Refer to the pdf. Consider the array of elements shown in Problem 6 in the pdf, and
+assume the range of elements is from 0 to 14.
+Use Bucket Sort to sort the array, using four buckets that represent the following ranges: 0-3, 4-7, 8-11 and 12-14.
+Show the bucket array.
